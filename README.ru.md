@@ -25,7 +25,7 @@ import (
 	"log/slog"
 	"time"
 
-	smtpsender "github.com/ttrtcixy/smtpsender"
+	smtpsender "github.com/ttrtcixy/smtp-sender"
 )
 
 func main() {
